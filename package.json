@@ -1,0 +1,23 @@
+{
+  "name": "zenn-taku227",
+  "version": "1.0.0",
+  "description": "Zenn のコンテンツを管理する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taku-kaneko/zenn-taku227.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taku-kaneko/zenn-taku227/issues"
+  },
+  "homepage": "https://github.com/taku-kaneko/zenn-taku227#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
